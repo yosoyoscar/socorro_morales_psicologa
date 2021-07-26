@@ -1,0 +1,100 @@
+body {
+  background: #eef1f3;
+  color: black;
+  font-family: 'Playfair Display', serif;
+  font-size: large;
+}
+
+.navbar {
+  /*border-bottom: #008ed6 3px solid;
+  opacity: 0.8;*/
+}
+
+.section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.section .inner {
+  padding-top: 100px;
+}
+
+.section .card-form {
+  opacity: 0.8;
+}
+
+.section .fas {
+  color: white;
+  background: black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.home-section {
+  background: url(../img/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+.conoceme-section {
+  background-color: white;
+}
+
+.problemas-section {
+  background: url(../img/problemas.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+.trabajo-section {
+  background: url(../img/trabajo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+.powered-by {
+  display: none;
+}
+
+.width100 {
+  width: 100%!important;
+}
+
+ /* Container holding the image and the text */
+.container-centered {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  margin-top: 55px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  transform: translate(-2%, -15%);
+  color: black;
+  font-weight: bold;
+  font-family: 'Lexend Mega';
+}
+
+
+.smallfontonmobile {
+  font-size: small;
+}
+@media (min-width: 600px) {
+  .smallfontonmobile {
+    font-size: large;
+  }
+}

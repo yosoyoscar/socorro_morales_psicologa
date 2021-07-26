@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /emailerror.html
+
+User-agent: *
+Disallow: /emailsuccess.html
+
+User-agent: *
+Disallow: /privacy.html
