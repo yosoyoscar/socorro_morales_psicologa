@@ -14,4 +14,5 @@ jobs:
         server: ftp.atlasfamiliar.com
         username: atlasfamiliar.com
         password: ${{ secrets.ftp_password }}
+        protocol: ftps
         local-dir: ./html/
