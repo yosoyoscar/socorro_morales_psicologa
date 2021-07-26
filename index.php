@@ -36,7 +36,7 @@
   <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top" id="main-nav" style="background-color: #d1d8de!important">
     <div class="container">
       <img src="img/logo.jpg" height="40" class="d-inline-block align-top mr-2" style="border-radius: 5px;" alt="Logo">
-      <a href="." class="navbar-brand">Socorro Morales Psic&oacute;loga Infantil</a>
+      <a href="." class="navbar-brand">Socorro Morales Psic&oacute;loga</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
       </button>
