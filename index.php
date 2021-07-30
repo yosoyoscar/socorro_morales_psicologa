@@ -37,28 +37,6 @@
     <div class="container">
       <img src="img/logo.jpg" height="40" class="d-inline-block align-top mr-2" style="border-radius: 5px;" alt="Logo">
       <a href="." class="navbar-brand">Socorro Morales Psic&oacute;loga</a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a href="#home" class="nav-link">Inicio</a>
-          </li>
-          <li class="nav-item">
-            <a href="#conoceme-head-section" class="nav-link">Con&oacute;ceme</a>
-          </li>
-          <li class="nav-item">
-            <a href="#problemas-head-section" class="nav-link">¿En qu&eacute; te puedo ayudar?</a>
-          </li>
-          <li class="nav-item">
-            <a href="#trabajo-head-section" class="nav-link">¿C&oacute;mo trabajo?</a>
-          </li>
-          <li class="nav-item">
-            <a href="#instagram-head-section" class="nav-link">Instagram</a>
-          </li>
-        </ul>
-      </div>
     </div>
   </nav>
   </div>
@@ -68,28 +46,6 @@
   <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top" id="phone-nav" style="background-color: #d1d8de!important">
     <div class="container">
       <a href="." class="navbar-brand">Socorro Morales Psic&oacute;loga</a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#phone-navbarCollapse">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="phone-navbarCollapse">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item" data-toggle="collapse" data-target="#phone-navbarCollapse">
-            <a href="#home" class="nav-link">Inicio</a>
-          </li>
-          <li class="nav-item" data-toggle="collapse" data-target="#phone-navbarCollapse">
-            <a href="#conoceme-head-section" class="nav-link">Con&oacute;ceme</a>
-          </li>
-          <li class="nav-item" data-toggle="collapse" data-target="#phone-navbarCollapse">
-            <a href="#problemas-head-section" class="nav-link">¿En qu&eacute; te puedo ayudar?</a>
-          </li>
-          <li class="nav-item" data-toggle="collapse" data-target="#phone-navbarCollapse">
-            <a href="#trabajo-head-section" class="nav-link">¿C&oacute;mo trabajo?</a>
-          </li>
-          <li class="nav-item" data-toggle="collapse" data-target="#phone-navbarCollapse">
-            <a href="#instagram-head-section" class="nav-link">Instagram</a>
-          </li>
-        </ul>
-      </div>
     </div>
   </nav>
   </div>
@@ -99,7 +55,7 @@
   <img src="img/mountains.jpg" alt="Mountains" style="width:100%; opacity: 0.35;">
   <div class="centered">
     <h3><u>TU ATLAS FAMILIAR</u></h3>
-    <p>Porque los pap&aacute;s y mam&aacute;s necesitamos un MAPA que nos gu&iacute;e.</p>
+    <p>¡Hola! Me llamo Socorro, y soy Psic&oacute;loga desde hace m&aacute;s de 15 años.</p>
   </div>
 </div>
 <div class="p-3 text-center" style="background-color: #d1d8de!important">
@@ -118,7 +74,7 @@
           <div class="row">
             <div class="col-lg-8">
               <h2>TU ATLAS FAMILIAR</h2>
-              <strong>Porque los pap&aacute;s y mam&aacute;s necesitamos un MAPA que nos gu&iacute;e.</strong>
+              <strong>¡Hola! Me llamo Socorro, y soy Psic&oacute;loga desde hace m&aacute;s de 15 años.</strong>
             </div>
             <div class="col-lg-4">
               <a href="https://www.facebook.com/SOCORROMORALESPSICOLOGIA" target="_blank"><i class="fab fa-facebook-square fa-2x float-right ml-1 text-primary"></i></a>
@@ -127,96 +83,6 @@
             </div>
         </div>
       </div>
-
-        <div class="row">
-          <div class="col-lg-8">
-            <div class="card bg-white card-form">
-              <div class="card-body text-dark smallfontonmobile">
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">¿SIENTES QUE NO SABES C&Oacute;MO <strong>GESTIONAR</strong> SITUACIONES CON TUS HIJOS?</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">¿TE GUSTAR&Iacute;A <strong>DISFRUTAR</strong> M&Aacute;S DE LA RELACI&Oacute;N CON TUS HIJOS?</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">¿TE SIENTES <strong>PERDIDO/A</strong> EN SU CRIANZA?</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">¿TU HIJO/A PRESENTA ALG&Uacute;N <strong>PROBLEMA DE COMPORTAMIENTO O EMOCIONAL</strong>?</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">PODEMOS <strong>ACOMPAÑARTE</strong> Y ASESORARTE EN ESTE CAMINO.</div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4">
-            <div class="card bg-white text-center card-form">
-              <div class="card-body text-dark">
-                <h3>Contacto</h3>
-                <p>Pregúntame lo que quieras</p>
-                <form id="contactoform" action="contactform.php" method="post">
-                  <div class="form-group">
-                    <input type="text" class="form-control form-control-lg" placeholder="Nombre" name="name1" required>
-                  </div>
-                  <div class="form-group">
-                    <input type="email" class="form-control form-control-lg" placeholder="Email" name="mail1" required>
-                  </div>
-                  <div class="form-group">
-                    <textarea class="form-control form-control-lg" placeholder="Mensaje" name="message1" required></textarea>
-                  </div>
-                  <div class="form-check">
-                    <input class="form-check-input" type="checkbox" value="" id="checkpolitica1" required>
-                    <label class="form-check-label" for="checkpolitica1">
-                      Acepto y confirmo la <a href="./privacy.html" target="_blank">Pol&iacute;tica de privacidad</a> *
-                    </label>
-                  </div>
-                  <div class="g-recaptcha"
-                       data-sitekey="6LfWDJIbAAAAAGfeQX8vbFBndj00SfDlyyt5w_xK"
-                       data-size="invisible"
-                       data-callback="formSubmit1">
-                  </div>
-                  <input type="submit" value="Enviar" name="submit1" class="btn btn-outline-dark btn-block">
-                  <p><small>Solo usar&eacute; los datos que me proporciones para responder a tus consultas. No los ceder&eacute; ni vender&eacute; jam&aacute;s a nadie.</small></p>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <!-- CONOCEME HEAD -->
-  <section id="conoceme-head-section">
-    <div class="container">
-      <div class="row">
-        <div class="col text-center py-5">
-          <h1 class="display-4">Con&oacute;ceme</h1>
-          <p class="lead">¡Hola! Me llamo Socorro, y soy Psic&oacute;loga Infantil desde hace m&aacute;s de 15 años.</p>
-          <p class="lead">Mi lema profesional es: "Para ayudar a un niño, es necesario ayudar a sus padres."</p>
-          <!--<a href="#" class="btn btn-outline-secondary">Find Out More</a>-->
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- CONOCEME SECTION -->
   <section class="section conoceme-section" class="text-dark py-5">
     <div class="container">
@@ -252,86 +118,6 @@
     </div>
   </section>
 
-  <!-- PROBLEMAS HEAD -->
-  <section id="problemas-head-section">
-  <div class="container">
-    <div class="row">
-      <div class="col text-center py-5">
-        <h1 class="display-4">¿En qu&eacute; te puedo ayudar?</h1>
-        <p class="lead">Acompañamiento, asesor&iacute;a y pautas en los siguientes casos:</p>
-        <!--<a href="#" class="btn btn-outline-secondary">Find Out More</a>-->
-      </div>
-    </div>
-  </div>
-</section>
-
-  <!-- PROBLEMAS SECTION -->
-  <header class="section problemas-section">
-    <div class="dark-overlay2">
-      <div class="inner container">
-        <div class="row">
-          <div class="col-lg-6">
-            <div class="card bg-white card-form">
-              <div class="card-body text-dark">
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Malestar parental, ansiedad respecto a la educaci&oacute;n y relaci&oacute;n con los hijos</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Problemas de conducta infantil</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Ansiedad infanto-juvenil</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Miedos y fobias</div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6">
-            <div class="card bg-white card-form">
-              <div class="card-body text-dark">
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Comportamientos obsesivos</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Tricotilomania</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Trastorno por tics</div>
-                </div>
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Enuresis y Encopresis</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </header>
@@ -349,7 +135,7 @@
       </div>
     </div>
   </div>
-</section>
+  </section>
 
   <!-- TRABAJO SECTION -->
   <header class="section trabajo-section">
@@ -359,12 +145,6 @@
           <div class="col">
             <div class="card bg-white card-form">
               <div class="card-body text-dark">
-                <div class="d-flex">
-                  <div class="p-3 align-self-center">
-                    <i class="fas fa-check fa-2x"></i>
-                  </div>
-                  <div class="p-3 align-self-center">Intervenci&oacute;n psicoterap&eacute;utica con niños en <strong><a href="http://www.centroceren.com/index.php?vale=1" target="_blank">Centro Ceren</a></strong> e <strong><a href="https://ihppediatria.com/especialidades/24-psicologia" target="_blank">Instituto Hispalense de Pediatr&iacute;a (IHP)</a></strong> en Sevilla (España)</div>
-                </div>
                 <div class="d-flex">
                   <div class="p-3 align-self-center">
                     <i class="fas fa-check fa-2x"></i>
@@ -402,7 +182,8 @@
     </div>
   </section>
   <section id="gallery" class="py-25" style="background-color: white;">
-    <div class="container" id="instagram-feed">
+    <div id="curator-feed-default-feed-layout">
+      <a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a>
     </div>
   </section>
 
@@ -417,7 +198,7 @@
       </div>
     </div>
   </div>
-</section>
+  </section>
 
   <!-- CITA SECTION -->
   <div class="col-lg-8 offset-lg-2 pb-4">
@@ -472,28 +253,6 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
     crossorigin="anonymous"></script>
   
-  <!-- https://www.sowecms.com/demos/InstagramFeed/ -->
-  <script src="scripts/InstagramFeed.min.js"></script>
-  <script>
-    (function(){
-        new InstagramFeed({
-            'username': 'socorromoralespsicologia',
-            'container': document.getElementById("instagram-feed"),
-            'display_profile': false,
-            'display_biography': false,
-            'display_gallery': true,
-            'display_captions': true,
-            'callback': null,
-            'styling': true,
-            'items': 6,
-            'items_per_row': 3,
-            'margin': 1,
-            'lazy_load': true,
-            'on_error': console.error
-        });
-    })();
-  </script>
-
   <script>
     // Get the current year for the copyright
     $('#year').text(new Date().getFullYear());
@@ -566,6 +325,15 @@ $('#contactoform').submit(function (event) {
 function formSubmit1(response) {
   document.getElementById("contactoform").submit();
 }
+</script>
+
+<script type="text/javascript">
+/* curator-feed-default-feed-layout */
+(function(){
+var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+i.src = "https://cdn.curator.io/published/253a2a34-661e-4eb3-b714-fbe3d0182f31.js";
+e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+})();
 </script>
 
 </body>
