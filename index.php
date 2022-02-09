@@ -59,9 +59,10 @@
   </div>
 </div>
 <div class="p-3 text-center" style="background-color: #d1d8de!important">
-  <a href="https://www.facebook.com/SOCORROMORALESPSICOLOGIA" target="_blank"><i class="fab fa-facebook-square fa-2x ml-1 text-primary"></i></a>
-  <a href="https://www.instagram.com/socorromoralespsicologia/" target="_blank"><i class="fab fa-instagram fa-2x ml-1 text-danger"></i></a>
   <a href="https://www.linkedin.com/in/socorro-morales-guerrero-5b4670205/" target="_blank"><i class="fab fa-linkedin fa-2x ml-1"></i></a>
+  <a href="https://www.instagram.com/socorromoralespsicologia/" target="_blank"><i class="fab fa-instagram fa-2x ml-1 text-danger"></i></a>
+  <a href="https://www.facebook.com/SOCORROMORALESPSICOLOGIA" target="_blank"><i class="fab fa-facebook-square fa-2x ml-1 text-primary"></i></a>
+  <a href="https://wa.me/+34663147843" target="_blank"><i class="fab fa-whatsapp fa-2x text-success ml-1"></i></a>
 </div>
 
   <!-- HOME SECTION -->
@@ -77,6 +78,7 @@
               <strong>¡Hola! Me llamo Socorro, y soy Psic&oacute;loga desde hace m&aacute;s de 15 años.</strong>
             </div>
             <div class="col-lg-4">
+              <a href="https://wa.me/+34663147843" target="_blank"><i class="fab fa-whatsapp fa-2x float-right text-success ml-1"></i></a>
               <a href="https://www.facebook.com/SOCORROMORALESPSICOLOGIA" target="_blank"><i class="fab fa-facebook-square fa-2x float-right ml-1 text-primary"></i></a>
               <a href="https://www.instagram.com/socorromoralespsicologia/" target="_blank"><i class="fab fa-instagram fa-2x float-right ml-1 text-danger"></i></a>
               <a href="https://www.linkedin.com/in/socorro-morales-guerrero-5b4670205/" target="_blank"><i class="fab fa-linkedin fa-2x float-right ml-1"></i></a>
