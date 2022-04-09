@@ -159,6 +159,12 @@
                   </div>
                   <div class="p-3 align-self-center">Asesoramiento psicol&oacute;gico <strong>online</strong> para familias.</div>
                 </div>
+                <div class="d-flex">
+                  <div class="p-3 align-self-center">
+                    <i class="fas fa-check fa-2x"></i>
+                  </div>
+                  <div class="p-3 align-self-center">Consulta presencial en Mairena del Aljarafe, Sevilla (España).</div>
+                </div>
               </div>
             </div>
           </div>
